@@ -31,3 +31,23 @@ Then this jenkins url is asked such the following image
 
 Jenkins is then ready to use! congrats!
 
+## adding a maven project in jenkins
+- from the dashboard choose manage jenkins
+![image](https://user-images.githubusercontent.com/46686524/148694126-cbe46798-6d93-4ccb-84e9-c52329889215.png)
+
+-Then select manage plugins >> available >> [find maven plugin]>> insatll the maven ingetration plugin for deploying maven projects
+
+## deploy new item
+- from the dash baord choose new item
+![image](https://user-images.githubusercontent.com/46686524/148694310-dc057821-be2e-43c0-8cde-331655ddfbde.png)
+
+- enter a name like the above picture and choose Maven project . Press okay on the left below
+
+We are directed to the following page
+![image](https://user-images.githubusercontent.com/46686524/148694362-b3fd6e14-113d-49df-9a03-127eea79a28f.png)
+
+- from the source code manager the git option must be selected and then the git project URL needs to be pasted
+![image](https://user-images.githubusercontent.com/46686524/148694395-4b6ad48f-9c1e-4949-88b3-6d069bb57f06.png)
+
+
+
