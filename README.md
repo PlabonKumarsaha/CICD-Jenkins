@@ -1,5 +1,5 @@
 # CICD-Jenkins
-Download from : https://www.jenkins.io/download/
+Download the war file from : https://www.jenkins.io/download/
 
 Steps:
 download the war file from the mentioned link
