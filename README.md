@@ -20,3 +20,6 @@ port : 9090
 ## In localhost:9090 the following admin pannel can be found
 ![image](https://user-images.githubusercontent.com/46686524/148693517-c31d2dae-6f3d-493c-bb6b-510655ab8e4a.png)
 
+- The auto gernated password must be added here
+- Then the system asks for insatlling plugins. I have chosen the suggested plugins which automatically installs some popular plugins such as git,pipeline, ant, grade etc
+
