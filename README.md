@@ -23,3 +23,11 @@ port : 9090
 - The auto gernated password must be added here
 - Then the system asks for insatlling plugins. I have chosen the suggested plugins which automatically installs some popular plugins such as git,pipeline, ant, grade etc
 
+Then the following panel is shown. It asks to create the first admin
+![image](https://user-images.githubusercontent.com/46686524/148693859-7bff92e7-4a9e-464a-8a04-cdde87b38a09.png)
+
+Then this jenkins url is asked such the following image
+![image](https://user-images.githubusercontent.com/46686524/148693916-5d126016-3544-4d85-a505-30b49520d9aa.png)
+
+Jenkins is then ready to use! congrats!
+
