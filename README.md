@@ -72,7 +72,7 @@ from the source code management branch , select and the following items. If git 
 ![image](https://user-images.githubusercontent.com/46686524/154009087-5a2aee9c-193a-40d3-bfa9-f715b0d74470.png)
 -sucessful war file build and run
 - building a war file
- ![image](https://user-images.githubusercontent.com/46686524/154011552-af48eb39-7423-4fdd-87a3-ffd3d2493d06.png)
+![image](https://user-images.githubusercontent.com/46686524/154011939-bb173a56-d9ce-4a18-8650-ee232aa261ae.png)
 - suceessful running
 ![image](https://user-images.githubusercontent.com/46686524/154011418-fc0d13dc-cefe-41e6-ad8f-0c05bc5981ba.png)
 
