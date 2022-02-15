@@ -60,6 +60,19 @@ We are directed to the following page
 --After clicking build now button the console will show the following console output
 ![image](https://user-images.githubusercontent.com/46686524/154004569-fca46c4b-eb3d-412b-8f9e-181c9c1d4c2c.png)
 
+## adding Git project in build
+from the source code management branch , select and the following items. If git proejct is private then credentials must be provided as well
+![image](https://user-images.githubusercontent.com/46686524/154004951-2b5007da-fdae-42ed-a2eb-8dcdc8ed6746.png)
+
+## adding command to generate jar/war file from the project
+![image](https://user-images.githubusercontent.com/46686524/154007911-6f5a5fe5-e3d8-4a0a-9b6c-b17cea87ee25.png)
+-a sucessful build
+
+![image](https://user-images.githubusercontent.com/46686524/154009060-7804a123-40d3-434e-a9cf-70d66b5258c5.png)
+![image](https://user-images.githubusercontent.com/46686524/154009087-5a2aee9c-193a-40d3-bfa9-f715b0d74470.png)
+
+
+
 
 
 https://www.youtube.com/watch?v=GlQHS7FdVGM&list=PL6flErFppaj35spJjPy41-lruDjw2kRV-&index=8&ab_channel=Mukeshotwani
