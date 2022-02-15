@@ -83,14 +83,20 @@ from the source code management branch , select and the following items. If git 
 add manager-script to tomcat-user.xml like the following
 
 ```
-  <role rolename="tomcat"/>
-  <role rolename="role1"/>
-  <user username="tomcat" password="tomcat" roles="tomcat,manager-gui,admin-gui,manager-script"/>
+<role rolename="manager"/>
+<role rolename="admin"/>
+
+<user username="admin" password="admin"
+fullName="Administrator" roles="admin,manager,manager-gui,admin-gui,manager-script"/>
 ```
 
 ## from manage jenkins >> add plugins >> add `deploy to container` like follwoing image
 
 ![image](https://user-images.githubusercontent.com/46686524/154029687-f80b3e1c-e012-4f4f-a212-c71670da981f.png)
+
+## fill up the post deployment providing the following items
+![image](https://user-images.githubusercontent.com/46686524/154035860-b5e8e819-496d-44c1-855c-c946b54bccfa.png)
+
 
 
 
