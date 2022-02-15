@@ -88,7 +88,9 @@ add manager-script to tomcat-user.xml like the following
   <user username="tomcat" password="tomcat" roles="tomcat,manager-gui,admin-gui,manager-script"/>
 ```
 
+## from manage jenkins >> add plugins >> add `deploy to container` like follwoing image
 
+![image](https://user-images.githubusercontent.com/46686524/154029687-f80b3e1c-e012-4f4f-a212-c71670da981f.png)
 
 
 
