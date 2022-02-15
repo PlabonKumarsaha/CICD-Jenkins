@@ -79,6 +79,18 @@ from the source code management branch , select and the following items. If git 
 
 
 
+## Tomcat config
+add manager-script to tomcat-user.xml like the following
+
+```
+  <role rolename="tomcat"/>
+  <role rolename="role1"/>
+  <user username="tomcat" password="tomcat" roles="tomcat,manager-gui,admin-gui,manager-script"/>
+```
+
+
+
+
 
 
 https://www.youtube.com/watch?v=GlQHS7FdVGM&list=PL6flErFppaj35spJjPy41-lruDjw2kRV-&index=8&ab_channel=Mukeshotwani
