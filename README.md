@@ -97,6 +97,20 @@ fullName="Administrator" roles="admin,manager,manager-gui,admin-gui,manager-scri
 ## fill up the post deployment providing the following items
 ![image](https://user-images.githubusercontent.com/46686524/154035860-b5e8e819-496d-44c1-855c-c946b54bccfa.png)
 
+# Automated build with github commit using Web hook
+
+* Download Ngrok from https://ngrok.com/download . Ngrok helps to convert local ip to recognizable web ip.
+
+## using ngrok
+open cmd and command is : `ngrok.exe protocol portnumber` (ex : ngrok.exe http 8080 where 8080 is the port where jankins is running)
+
+![image](https://user-images.githubusercontent.com/46686524/155067135-dcd447ba-01ac-4fb1-ad19-aec59197ee5a.png)
+
+using webhook from github like following
+![image](https://user-images.githubusercontent.com/46686524/155067748-9c8add7d-46d4-4afc-8d82-4d1bae597597.png)
+
+
+
 
 
 
