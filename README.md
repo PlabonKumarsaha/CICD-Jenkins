@@ -109,6 +109,13 @@ open cmd and command is : `ngrok.exe protocol portnumber` (ex : ngrok.exe http 8
 using webhook from github like following
 ![image](https://user-images.githubusercontent.com/46686524/155067748-9c8add7d-46d4-4afc-8d82-4d1bae597597.png)
 
+After setting up web hook the and commiting in reporsitory autiomatically jenkins build will be triggered like following image
+
+The changes will be reflected after the automated build.
+![image](https://user-images.githubusercontent.com/46686524/155070616-1ec7c04f-0967-4110-9d27-7c04957b66ab.png)
+
+
+
 
 
 
