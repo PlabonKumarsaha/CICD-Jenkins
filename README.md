@@ -1,11 +1,10 @@
 # CICD-Jenkins
 This is a formal steps of implementing ci cd deployment pipelines
-The used Tehcnolgies are
-<ol>
+### The used Tehcnolgies are
 1.Spring boot
 2.Tomcat
 3. Jenkins
-</ol>
+
 Download the war file from : https://www.jenkins.io/download/
 
 Steps:
