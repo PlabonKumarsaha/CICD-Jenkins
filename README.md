@@ -5,6 +5,8 @@ This is a formal steps of implementing ci cd deployment pipelines
 1. Spring boot
 2. Tomcat
 3. Jenkins
+4. github
+5. ngrok
 
 Download the war file from : https://www.jenkins.io/download/
 
